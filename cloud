@@ -1,4 +1,4 @@
-<mxfile modified="2022-05-03T02:57:08.284Z" host="app.diagrams.net" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="0fVTJ9mWjm0raCrU3Cfx" version="17.5.0" type="github" pages="2">
+<mxfile modified="2022-05-03T02:58:00.402Z" host="app.diagrams.net" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="LbMQYRMNnE4uTS__2XrH" version="17.5.0" type="github" pages="2">
   <diagram id="qvCrkxwvLuG-4UdFgLIA" name="aws">
     <mxGraphModel dx="1594" dy="364" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1010,9 +1010,6 @@
         </mxCell>
         <mxCell id="FHwPzj35gXcJ-rXA1DHU-23" value="10.0.0.1/27" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-520" y="250" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="FHwPzj35gXcJ-rXA1DHU-40" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.office_building;" vertex="1" parent="1">
-          <mxGeometry x="-695" y="582" width="107.69" height="168" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
